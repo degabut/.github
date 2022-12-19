@@ -3,6 +3,8 @@
 
 <h3>✨ Open source, feature rich Discord music bot with web client 🎶</h3>
 
+[Got something to say or have a non-repository specific question?](https://github.com/orgs/degabut/discussions)
+
 Check [this guide](https://github.com/degabut/examples/blob/main/v3) to self host your Degabut
 
 </div>
