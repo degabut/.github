@@ -5,11 +5,9 @@
 
 [Discussion & Questions](https://github.com/orgs/degabut/discussions) | [Self Host Guide](https://github.com/degabut/examples/blob/main/v3)
 
-
-
 </div>
 
-![image](https://user-images.githubusercontent.com/32597776/210191366-31a80d46-36b8-4fc8-899c-c05c089d7d61.png)
+![image](https://user-images.githubusercontent.com/32597776/210191822-7cff9cbf-3bd3-4e8f-9a52-ca54a01c83e1.png)
 
 <details>
     <summary align="center">More Screenshots</summary>
