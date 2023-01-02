@@ -3,21 +3,21 @@
 
 <h3>✨ Open source, feature rich Discord music bot with web client 🎶</h3>
 
-[Got something to say or have a non-repository specific question?](https://github.com/orgs/degabut/discussions)
+[Discussion & Questions](https://github.com/orgs/degabut/discussions) | [Self Host Guide](https://github.com/degabut/examples/blob/main/v3)
 
-Check [this guide](https://github.com/degabut/examples/blob/main/v3) to self host your Degabut
+
 
 </div>
 
-<img src="https://i.imgur.com/N5r2aXS.png" />
+![image](https://user-images.githubusercontent.com/32597776/210191366-31a80d46-36b8-4fc8-899c-c05c089d7d61.png)
 
 <details>
     <summary align="center">More Screenshots</summary>
-    <img src="https://i.imgur.com/n5CBzK5.png" />
-    <img src="https://i.imgur.com/bfM8aQs.png" />
+    <img src="https://user-images.githubusercontent.com/32597776/210191404-84ed9452-02af-4729-9526-b0bce9e95db4.png" />
+    <img src="https://user-images.githubusercontent.com/32597776/210191416-6bb0b9e0-05ac-4dee-bce5-cbea36ed8a29.png" />
     <div align="center">
-        <img src="https://i.imgur.com/nJl9Fkx.png" width="45%" />
+        <img src="https://user-images.githubusercontent.com/32597776/210191503-4209afa1-b86a-4caf-b1fc-03f2262fe1d3.png" width="45%" />
         &nbsp;&nbsp;
-        <img src="https://i.imgur.com/KfcWFCi.png" width="45%" />
+        <img src="https://user-images.githubusercontent.com/32597776/210191556-ad9fe280-32ba-4ae5-adef-e8ca25beb306.png" width="45%" />
     </div>
 </details>
