@@ -7,15 +7,16 @@
 
 </div>
 
-![image](https://user-images.githubusercontent.com/32597776/210191822-7cff9cbf-3bd3-4e8f-9a52-ca54a01c83e1.png)
+![image](https://github.com/degabut/.github/assets/32597776/dc921c6c-3233-457d-ae9f-9c731b42e856)
 
 <details>
     <summary align="center">More Screenshots</summary>
-    <img src="https://user-images.githubusercontent.com/32597776/210191404-84ed9452-02af-4729-9526-b0bce9e95db4.png" />
-    <img src="https://user-images.githubusercontent.com/32597776/210191416-6bb0b9e0-05ac-4dee-bce5-cbea36ed8a29.png" />
+    <img src="https://github.com/degabut/.github/assets/32597776/0980ae91-5ac3-487e-8703-4beb7d11d0e8" />
+    <img src="https://github.com/degabut/.github/assets/32597776/1da492c0-c50e-47c1-819b-53ea89e84760" />
+    <img src="https://github.com/degabut/.github/assets/32597776/5bd471fa-af49-46ca-a243-943b9859b7d4" />
     <div align="center">
-        <img src="https://user-images.githubusercontent.com/32597776/210191503-4209afa1-b86a-4caf-b1fc-03f2262fe1d3.png" width="45%" />
+        <img src="https://github.com/degabut/.github/assets/32597776/dde1eb36-1772-467c-be7c-455e690c929d" width="45%" />
         &nbsp;&nbsp;
-        <img src="https://user-images.githubusercontent.com/32597776/210191556-ad9fe280-32ba-4ae5-adef-e8ca25beb306.png" width="45%" />
+        <img src="https://github.com/degabut/.github/assets/32597776/390ee99d-a6df-4bdf-816f-9de174d11467" width="45%" />
     </div>
 </details>
