@@ -3,7 +3,7 @@
 
 <h3>✨ Open source, feature rich Discord music bot with web client 🎶</h3>
 
-[Discussion & Questions](https://github.com/orgs/degabut/discussions) | [Self Host Guide](https://github.com/degabut/examples)
+[Discussion & Questions](https://github.com/orgs/degabut/discussions) | [Self Host Guide](https://github.com/degabut/examples) | [Discord](http://discord.gg/PHkDCkyVMY)
 
 </div>
 
