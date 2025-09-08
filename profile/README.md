@@ -9,11 +9,11 @@
 [☕Donate](https://ko-fi.com/suspiowl)
 
 </div>
-
-![image](https://github.com/degabut/.github/assets/32597776/dc921c6c-3233-457d-ae9f-9c731b42e856)
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/da10f356-7593-41c3-b674-3afa152412f1" />
 
 <details>
     <summary align="center">More Screenshots</summary>
+    <img src="https://github.com/user-attachments/assets/99b020c1-410c-4cc0-9111-aa992cd8f222" />
     <img src="https://github.com/degabut/.github/assets/32597776/0980ae91-5ac3-487e-8703-4beb7d11d0e8" />
     <img src="https://github.com/degabut/.github/assets/32597776/1da492c0-c50e-47c1-819b-53ea89e84760" />
     <img src="https://github.com/degabut/.github/assets/32597776/5bd471fa-af49-46ca-a243-943b9859b7d4" />
